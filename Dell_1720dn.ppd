@@ -17,7 +17,7 @@
 *LanguageEncoding:	ISOLatin1
 *cupsLanguages: "de es fr it ja pt zh_CN zh_TW ko"
 *cupsVersion: "1.2"
-*PCFileName:		"LXE450dn.PPD"
+*PCFileName:		"Dell_1720dn.ppd"
 
 *LXCountPIN:    "4"
 *LXlowPINchar:  "0"
